@@ -131,7 +131,7 @@ config community potsdam
 
 config community potsdam
 	option name "Freifunk Hamburg"
-	option homepage http://hamburg.piratenpartei.de
+	option homepage http://piratenpartei-hamburg.de
 	option ssid "hamburg.freifunk.net"
 	option mesh_network "10.112.0.0/12"
 	option splash_network "10.104.0.0/16"
